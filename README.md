@@ -138,7 +138,7 @@ CREATE DATABASE `djangoblog` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8
 
 ---
 
-感谢jetbrainss
+感谢jetbrains
 <div>    
 <a href="https://www.jetbrains.com/?from=DjangoBlog"><img src="https://resource.lylinux.net/image/2020/07/01/logo.png" width="150" height="150"></a>
 </div>
